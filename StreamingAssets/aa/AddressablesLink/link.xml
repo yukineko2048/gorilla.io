@@ -7,6 +7,7 @@
     <type fullname="LicenceDialog" preserve="all" />
     <type fullname="LoadingCanvas" preserve="all" />
     <type fullname="SettingMenu" preserve="all" />
+    <type fullname="SoundButton" preserve="all" />
     <type fullname="SoundSettingCell" preserve="all" />
     <type fullname="YYGames.CustomUI.ButtonAttributes.PrevButton" preserve="all" />
     <type fullname="YYGames.CustomUI.CustomButton" preserve="all" />
